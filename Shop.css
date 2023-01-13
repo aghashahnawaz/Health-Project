@@ -1,0 +1,153 @@
+*{
+    margin:0;
+    padding:0;
+}
+.icon{
+    color:#10800e;
+    margin-right:5px;
+    font-size:25px;
+}
+.nav-link:hover{
+    color: #10800e!important;
+    font-size:15px;
+    font-weight:bold;
+}
+.img--overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width:100%;
+    height:100%;
+    background:rgba(66, 63, 63, 0.6);
+    color: #fff;
+    justify-content:center;
+    display:flex;
+    font-family:'Quicksaand' sans-serif;
+    flex-direction: column;
+    align-items: center;
+}
+.img-title{
+    font-size:3em;
+    font-family:bold;
+}
+.over{
+    text-align: center;
+}
+.over1{
+    text-align: center;
+}
+.over2{
+    text-align: center;
+}
+.d-block{
+    height:350px;
+}
+.container-fluid{
+    height:1050px;
+    margin: auto !important;
+    background-color:gainsboro;
+}
+.Head{
+    text-align: center;
+    margin-top:20px!important;
+    color: black;
+    font-size:40px;
+    font-weight:700;
+    font-style: italic;
+}
+.every{
+    height:435px;
+    margin-left:60px;
+    background-color:black;
+    color:white;
+    object-fit: cover!important;
+}
+.every1{
+    height:435px;
+    margin-left:60px;
+    background-color:black;
+    color: white;
+    margin-top:20px!important;
+}
+.every3{
+    height:435px;
+    margin-left:75px;
+    background-color:black;
+    color: white;
+}
+.every4{
+    height:435px;
+    margin-left:75px;
+    background-color:black;
+    color: white;
+    margin-top:20px!important;
+}
+.dc1{
+    height:250px !important;
+    width:315px;
+    border-radius:5px;
+    margin-top:10px;
+}
+.qq{
+    margin-left:7px;
+    margin-top:10px;
+    font-weight: 600;
+    font-style: italic;
+    font-size:20px;
+}
+.fa-brands{
+    font-size:20px;
+    cursor: pointer;
+}
+.me{
+    font-size:20px;
+    cursor: pointer;
+}
+.footer{
+    width:100%;
+    height:100px;
+    background-color:black;
+}
+.g1{
+    color:white;
+    margin-left:30px;
+    font-size:25px;
+    font-family:serif
+}
+.fa-sharp{
+    font-size:20px;
+    margin-left:10px;
+    cursor: pointer;
+
+}
+.fa-sharp:hover{
+    color:rgb(66, 223, 66)!important;
+}
+.fa-solid{
+    font-size: 20px;
+    margin-left:10px;
+    cursor: pointer;
+}
+.fa-solid:hover{
+    color:rgb(96, 96, 228);
+}
+.x1{
+    margin-left:510px;
+    color:white;
+    font-size:15px;
+    margin-top:-5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
